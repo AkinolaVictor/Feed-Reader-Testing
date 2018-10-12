@@ -51,3 +51,5 @@ Using jasmine.js(A javaScript framework for testing) to do a Test Drive Developm
  ## contributing
  * if there are any improvement you would like to give to this work, you are free to do so. this is the link for that... 
  
+## Acknowledgement
+* i appreciate God for the privelege i've got to get this done, i also appreciate Google, Andela, and udacity, for the scholarship i was given that birth this.
