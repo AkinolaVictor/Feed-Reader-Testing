@@ -49,7 +49,7 @@ Using jasmine.js(A javaScript framework for testing) to do a Test Drive Developm
  * The testing of this feed reader Application was developed by Akinola Victor with the starter code given by Udacity.
  
  ## contributing
- * if there are any improvement you would like to give to this work, you are free to do so. this is the link for that... 
+ * if there are any improvement you would like to give to this work, you are free to do so. this is the link for that https://github.com/AkinolaVictor/Feed-Reader-Testing 
  
 ## Acknowledgement
 * i appreciate God for the privelege i've got to get this done, i also appreciate Google, Andela, and udacity, for the scholarship i was given that birth this.
