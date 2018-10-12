@@ -129,12 +129,12 @@ $(function() {
     describe('New Feed Selection', function(){
 
                  describe('New Feed Selection', function() {
-                    let firstFeedHtml;
+                    let firstFeed;
 
                         beforeEach(function (done) {
                         // load the first feed
                         loadFeed(0, function () {
-                        firstFeedHtml = $('.feed').html();
+                        firstFeed = $('.feed').html();
 
                         // Load the second feed
                         loadFeed(1, function () {
@@ -145,9 +145,9 @@ $(function() {
             });
 
              it('should change the contents of new feeds', function (done) {
-                let nextFeedHtml = $('.feed').html();
-                // testing both feed for difference
-                expect(nextFeedHtml).not.toBe(firstFeedHtml);
+                let nextFeed = $('.feed').html();
+                // testing both feeds for difference
+                expect(nextFeed).not.toBe(firstFeed);
                 done();
             });           
 
