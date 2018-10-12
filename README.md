@@ -10,6 +10,7 @@
 * Project Properties 
 * Author
 * Contributing
+* Acknowledgement
 
 ## Project Description
 * Using jasmine.js(A javaScript framework for testing) to do a Test Drive Development(TDD) on a pre-existing Feed Reader Web Application.
