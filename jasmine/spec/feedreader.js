@@ -24,7 +24,7 @@ $(function() {
             for(feeds of allFeeds){
                 // feed name must be defined and must contain something
                 expect(feeds.name).toBeDefined();
-                expect(feeds.name.length).not.toBe(null);   
+                expect(feeds.name.length).not.toBe(0);   
             }
          });
     });
