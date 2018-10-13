@@ -44,9 +44,9 @@ $(function() {
           
             // on click of menu icon, menu should change
             $('.menu-icon-link').trigger('click');
-            expect(b.className).toBe("");
+            expect(theBody.classList).not.toContain("menu-hidden");
             $('.menu-icon-link').trigger('click');
-            expect(b.className).toBe("menu-hidden");
+            expect(theBody.classList).toContain("menu-hidden");
             
         });
     });
