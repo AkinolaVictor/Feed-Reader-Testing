@@ -33,6 +33,7 @@ var allFeeds = [
  */
 function init() {
     // Load the first feed we've defined (index of 0).
+    //with the code below
     loadFeed(0);
 }
 
