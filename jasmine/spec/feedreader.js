@@ -1,4 +1,5 @@
 
+// Good cases
 $(function() {
    
     describe('RSS Feeds', function() {
