@@ -7,7 +7,7 @@
  */
 
 // The names and URLs to all of the feeds we'd like available.
-// The are arrayed as objects.
+// The are arrayed as objects so as to be referred to easily.
 var allFeeds = [
     {
         name: 'Udacity Blog',
