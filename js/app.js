@@ -23,7 +23,7 @@ var allFeeds = [
         url: 'http://feeds.feedburner.com/udacity-linear-digressions'
     }, {
         description: 'Machine Learning Tutorials',
-        name: 'ML Tutorial',
+        name: 'ML Tutorials',
         url: 'http://feeds.feedburner.com/udacity-machine-learning'
     }
 ];
